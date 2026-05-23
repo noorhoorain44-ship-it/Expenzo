@@ -1,0 +1,14 @@
+# ──────────────────────────────────────────────────
+#  Noor Expense Tracker — Python Dependencies
+#  Developed by Noor Hoorain
+#  github.com/noorhoorain44-ship-it
+# ──────────────────────────────────────────────────
+#
+#  Both packages are OPTIONAL — the app works without
+#  them in plain-text mode.
+#
+#  Install all:  pip install -r requirements.txt
+# ──────────────────────────────────────────────────
+
+colorama>=0.4.6   # Cross-platform ANSI colour support (Windows/Linux/macOS)
+rich>=13.0.0      # Rich terminal formatting (tables, panels, progress bars)
